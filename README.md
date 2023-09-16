@@ -3,7 +3,7 @@ venkateshwaranL/venkateshwaranL is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 # Info ! 🥖
-My name is Venkateshwaran Lakshim Narayanan . I Like To Work with frontend developer living near Coimbatore, Tamil Nadu. 🥐
+My name is Venkateshwaran Lakshmi Narayanan . I Like To Work with frontend developer living near Coimbatore, Tamil Nadu. 🥐
 
 ## 🛠  Technologies and tools
 <a name="learning-now"></a>
@@ -22,8 +22,6 @@ My name is Venkateshwaran Lakshim Narayanan . I Like To Work with frontend devel
 
 ## 👾  What I am interested in learning at some point
 
-## 🔍  Where to find me
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/venkateshwaran-l-1831bb260/)
 <details>
   <summary><b>Where to find me</b></summary>
 
