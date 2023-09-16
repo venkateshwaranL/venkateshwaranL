@@ -2,7 +2,7 @@
 venkateshwaranL/venkateshwaranL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# introduction ! 🥖
+# Introduction ! 🥖
 My name is Venkateshwaran Lakshim Narayanan . I Like To Work with frontend developer living near Coimbatore, Tamil Nadu. 🥐
 
 ## 🛠  Technologies and tools
@@ -18,3 +18,4 @@ My name is Venkateshwaran Lakshim Narayanan . I Like To Work with frontend devel
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
 <a name="learning-next"></a>
+## 📖  What I am currently learning / improving on
