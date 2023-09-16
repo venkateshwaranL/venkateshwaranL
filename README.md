@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Info ! 🥖
 My name is Venkateshwaran Lakshmi Narayanan . I Like To Work with frontend developer living near Coimbatore, Tamil Nadu. 🥐
-
+<!---
 ## 🛠  Technologies and tools
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -21,11 +21,11 @@ My name is Venkateshwaran Lakshmi Narayanan . I Like To Work with frontend devel
 ## 📖  What I am currently learning / improving on
 
 ## 👾  What I am interested in learning at some point
-
+--->
 <details>
   <summary><b>Where to find me</b></summary>
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Char-Al)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)]([https://github.com/Char-Al](https://github.com/venkateshwaranL))
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/venkateshwaran-l-1831bb260/)
 
 </details>
