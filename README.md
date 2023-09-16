@@ -6,5 +6,6 @@ You can click the Preview link to take a look at your changes.
 My name is Venkateshwaran Lakshim Narayanan . I Like To Work with frontend developer living near Coimbatore, Tamil Nadu. 🥐
 
 ## 🛠  Technologies and tools
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp; 
+<a name="learning-now"></a>
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor] &nbsp; 
+<a name="learning-next"></a>
