@@ -25,7 +25,7 @@ My name is Venkateshwaran Lakshmi Narayanan . I Like To Work with frontend devel
 <details>
   <summary><b>Where to find me</b></summary>
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)]([[https://github.com/venkateshwaranL]])
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/venkateshwaranL)
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/venkateshwaran-l-1831bb260/)
 
 </details>
