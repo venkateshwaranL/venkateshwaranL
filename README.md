@@ -3,7 +3,7 @@ venkateshwaranL/venkateshwaranL is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 # Info ! 🥖
-My name is Venkateshwaran Lakshmi Narayanan . I Like To Work with UX/UI Designer & frontend developer but currently working in Junior Data Engineer At Sri Ramakrishna Mission Vidyalaya College of Arts and Science And Project is Digital book factory  [![Gurukulams](https://gurukulams.com/) living near Coimbatore, Tamil Nadu. 🥐
+My name is Venkateshwaran Lakshmi Narayanan . I Like To Work with UX/UI Designer & frontend developer but currently working in Junior Data Engineer At Sri Ramakrishna Mission Vidyalaya College of Arts and Science And Project is Digital book factory  [Gurukulams](https://gurukulams.com/) living near Coimbatore, Tamil Nadu. 🥐
 <!---
 ## 🛠  Technologies and tools
 <a name="learning-now"></a>
